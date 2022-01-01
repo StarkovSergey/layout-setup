@@ -1,10 +1,10 @@
 body {
-  background-color: #666;
+  background-color: #666666;
 
   span {
+    width: 100px;
     color: red;
   }
-
 }
 
 @import "blocks/header.scss";
